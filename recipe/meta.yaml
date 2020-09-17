@@ -26,6 +26,7 @@ requirements:
   run:
     - python >=3.7
     - setuptools
+    - prometheus_client
     - celery >=4.3.0
     - tornado >=5.0.0,<7.0.0
     - humanize >=0.5.1
