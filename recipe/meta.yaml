@@ -1,6 +1,6 @@
 {% set name = "flower" %}
-{% set version = "0.9.5" %}
-{% set sha256 = "56916d1d2892e25453d6023437427fc04706a1308e0bd4822321da34e1643f9c" %}
+{% set version = "0.9.7" %}
+{% set sha256 = "cf27a254268bb06fd4972408d0518237fcd847f7da4b4cd8055e228150ace8f3" %}
 
 package:
   name: {{ name|lower }}
